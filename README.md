@@ -10,7 +10,7 @@
 <a href="#"><img title="FAISAL WAPI" src="https://img.shields.io/badge/BOT%20ISALL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/FAISAL-WAPI-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/botisall/bot-v4/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
@@ -59,7 +59,7 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🐊Ramlan🐊`](https://saweria.co/ramlangans)
+* [`Donasi FAISAL WAPI`](https://saweria.co/BOTISALL)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
